@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ad7a8d2.css",
+    "main.js": "/static/js/main.df3e3965.js",
+    "static/js/787.85bb9051.chunk.js": "/static/js/787.85bb9051.chunk.js",
+    "static/media/Koulen-Regular.ttf": "/static/media/Koulen-Regular.e23002c698c2632e9437.ttf",
+    "index.html": "/index.html",
+    "main.1ad7a8d2.css.map": "/static/css/main.1ad7a8d2.css.map",
+    "main.df3e3965.js.map": "/static/js/main.df3e3965.js.map",
+    "787.85bb9051.chunk.js.map": "/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad7a8d2.css",
+    "static/js/main.df3e3965.js"
+  ]
+}
